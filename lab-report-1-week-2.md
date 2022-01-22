@@ -11,9 +11,7 @@ __Download Visual Code Studio__ using the following link:
 
 and choose the version meant for your computer. For example, version OSX for Macs. The home page of the application should appear similarly to this:
 
-![Image][1]
-
-[1]: https://user-images.githubusercontent.com/91626896/150620384-080cd64a-5867-4fae-aaee-affa25821a16.png
+![VisHomepage](https://user-images.githubusercontent.com/91626896/150620490-b7beec5f-846e-4daf-acbe-f07b8f978b3e.png)
 
 
 STEP 2:
