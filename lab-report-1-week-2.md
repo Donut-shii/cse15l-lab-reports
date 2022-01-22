@@ -13,8 +13,7 @@ and choose the version meant for your computer. For example, version OSX for Mac
 
 ![Image][1]
 
-[1]:
-![VisHomepage](https://user-images.githubusercontent.com/91626896/150620384-080cd64a-5867-4fae-aaee-affa25821a16.png)
+[1]: https://user-images.githubusercontent.com/91626896/150620384-080cd64a-5867-4fae-aaee-affa25821a16.png
 
 
 STEP 2:
