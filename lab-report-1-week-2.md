@@ -1,5 +1,7 @@
-__Week 2: Lab Report By: Camille Saldajeno__
+__Week 2: Lab Report__
 =========
+__By: Camille Saldajeno__
+---------
 
 STEP 1:
 ---------
