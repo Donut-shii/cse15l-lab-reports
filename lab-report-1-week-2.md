@@ -14,7 +14,7 @@ and choose the version meant for your computer. For example, version OSX for Mac
 ![Image][1]
 
 [1]:
-https://lh3.googleusercontent.com/QGvpWiAzFN15xIHSCXOMCiGu8ADLM1KkUFWkbMeLHnbRiUmg41A5u9fMIswZ0_VA0svLfARMBfLBwBuOzmXvInmc_vmXwDrvmPI3DAB9u6dAcYJRCr6ncXZ4TOoPFrkEvxMtbLzD
+![VisHomepage](https://user-images.githubusercontent.com/91626896/150620384-080cd64a-5867-4fae-aaee-affa25821a16.png)
 
 
 STEP 2:
