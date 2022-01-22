@@ -28,7 +28,6 @@ STEP 3:
 __Try running some commands__ such as cd, ls, pwd, mkdir, and cp. The specific command used in the screenshot is ```ls -lat```, which outputs a list of computer files in Unix or Unix-like systems (in this case, in MacOSX).
 
 ![runningcommands](https://user-images.githubusercontent.com/91626896/150620571-283992f7-6d6a-47e8-aa24-3067ca06b556.png)
-![Image][1]
 
 STEP 4:
 ---------
