@@ -1,7 +1,13 @@
 __Week 2: Lab Report__
 =========
 __By: Camille Saldajeno__
----------
+=========
+
+```
+# code block
+print '3 backticks or'
+print 'indent 4 spaces'
+```
 
 STEP 1:
 ---------
